@@ -1,0 +1,68 @@
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    background-color: #f2e7dd;
+    color: black;
+
+}
+
+.main {
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.header {
+    background-color: #f2d6ce;
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(132, 118, 118);
+}
+
+.foto-profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.info {
+    padding: 20px;
+    text-align: left;
+}
+
+.pengalaman h2,
+.pendidikan h2 {
+    font-weight: bold;
+}
+
+.pengalaman-item,
+.pendidikan-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px; 
+}
+
+.pengalaman-detail,
+.pendidikan-detail {
+    margin-left: 20px;
+    text-align: right;
+}
+
+.pengalaman-bullet,
+.pendidikan-bullet {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.garis-vertical {
+    width: 2px; /* Lebar garis */
+    height: 100px; /* Tinggi garis */
+    background-color: black; /* Warna garis */
+    margin: 20px auto; /* Centering */
+}
