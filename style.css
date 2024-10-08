@@ -59,10 +59,3 @@ body {
     margin-left: 20px;
     font-weight: bold;
 }
-
-.garis-vertical {
-    width: 2px; /* Lebar garis */
-    height: 100px; /* Tinggi garis */
-    background-color: black; /* Warna garis */
-    margin: 20px auto; /* Centering */
-}
